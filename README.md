@@ -10,11 +10,11 @@
 
 > Si Deseas Probar El Bot Antes De Instalarlo, Click Abajo.🟢
 
-<a href="https://chat.whatsapp.com/Eaa9JFA53ps7WHMv2VHbO9"><img alt="☄️ Grupo WhatsApp" src="https://img.shields.io/badge/Grupo-Yotsuba-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/Eaa9JFA53ps7WHMv2VHbO9"><img alt="☄️ Grupo WhatsApp" src="https://img.shields.io/badge/Grupo-Yotsuba-FF00FF?style=forbadge&logo=whatsapp&logoColor=white"/></a>
 
 
 - ### ⚙️ Configuracion
- Clonar Repo : Yotsuba [Aqui.](https://github.com/Diego-YL-177/Yotsuba-Nakano-MD/fork)
+ 
 
 
 
