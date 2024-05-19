@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yotsuba-nakano-md
+    name: Maleebot
     env: docker
-    region: Frankfurt
+    region:
     plan: free
