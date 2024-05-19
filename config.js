@@ -1,6 +1,6 @@
 import {watchFile, unwatchFile} from 'fs';
 import chalk from 'chalk';
-import {fileURLToPath} from 'url';
+import 
 import fs from 'fs'; 
 import cheerio from 'cheerio';
 import fetch from 'node-fetch';
@@ -31,7 +31,7 @@ global.contactos = [
 global.suittag = ['573012482597'];
 global.prems = ['573218138672'];
 
-global.lenguajeYL = es //idioma de yotsuba
+global.lenguajeYL = es //
 
 
 
@@ -60,14 +60,3 @@ global.fecha = d.toLocaleDateString('es', {day: 'numeric', month: 'numeric', yea
 global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
-//* ****************************
-global.wm2 = `${dia} ${fecha}\n
-
-//* ************************
-
-const file = fileURLToPath(import.meta.url);
-watchFile(file, () => {
-  unwatchFile(file);
-  console.log(chalk.redBright('Update \'config.js\''));
-  import(`${file}?update=${Date.now()}`);
-});
