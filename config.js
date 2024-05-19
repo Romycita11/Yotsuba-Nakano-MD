@@ -8,7 +8,7 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 import { es } from "./lib/idiomas/total-idiomas.js"
 
-global.botnumber = ""
+global.botnumber = "+5930962705006"
 global.confirmCode = ""
 
 //• ↳𝑷𝑶𝑵 𝑳𝑶𝑺 𝑵𝑼𝑴𝑬𝑹𝑶𝑺 𝑸𝑼𝑬 𝑸𝑼𝑰𝑬𝑹𝑨𝑺
@@ -33,16 +33,7 @@ global.prems = ['573218138672'];
 
 global.lenguajeYL = es //idioma de yotsuba
 
-//• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 🍁
-global.packname = '𝗬𝗼𝘁𝘀𝘂𝗯𝗮-𝗡𝗮𝗸𝗮𝗻𝗼-𝗠𝗗 🌩';
-global.author = 'Dɪᴇɢᴏ ✨️';
-global.wm = 'Yotsuba : Nakano 🌼';
-global.titulowm = '𝗬𝗈𝗍𝗌𝗎𝖻𝖺 : 𝗡𝖺𝗄𝖺𝗇𝗈';
-global.titulowm2 = `𝐃𝐢𝐞𝐠𝐨 𝐎𝐟𝐜`
-global.igfg = 'Diego Oficial';
-global.sk = 'Yᴏᴛsᴜʙᴀ Nᴀᴋᴀɴᴏ - MD';
-global.team = 'Bʏ: Dɪᴇɢᴏ.Oғᴄ';
-global.vs = '1.0.7';
+
 
 //• ↳ ◜𝑴𝑺𝑮 𝑫𝑬 𝑬𝑺𝑷𝑬𝑹𝑨◞ • 🈸
 global.wait = '*⏰️ 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼 ...*';
@@ -50,34 +41,9 @@ global.waitt = '*⏰️ 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 global.waittt = '*⏰️ 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼 ...*';
 global.waitttt = '*⏰️ 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼 ...*';
 
-//• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
-global.imagen1 = fs.readFileSync('./Menu2.jpg');
-global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
-global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
-global.imagen4 = fs.readFileSync('./Menu.png');
-global.imagen5 = fs.readFileSync('./src/+18.jpg');
-global.imagen6 = fs.readFileSync('./Menu3.png');
-global.imagen7 = fs.readFileSync('./AhoraQue.png');
-global.imagen8 = fs.readFileSync('./Que.jpg');
 
-//• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = 'https://chat.whatsapp.com/Eaa9JFA53ps7WHMv2VHbO9' //Grupo Oficial De Yotsuba1
 
-global.gp2 = 'https://chat.whatsapp.com/BvHfQUBNAAFF1k1F9bTL0G' //Grupo Oficial Yotsuba2
 
-global.gp3 = 'https://chat.whatsapp.com/JNdlCEUKLqHAw87sOqfKmO' //Curiosity Y Yotsuba
-
-global.gp4 = 'https://chat.whatsapp.com/IstOAq2RnBx687WhQpOYK8' //Nova Y Yotsuba
-
-global.gp5 = 'https://chat.whatsapp.com/KjR8NTfdWwU1a66uDOOGLZ' //Multibots
-
-global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A' //Canal Oficial
-
-global.yt = 'https://www.youtube.com/@Yotsuba.nakano01' //Canal De Youtube
-
-global.md = 'https://github.com/Diego-YL-177/Yotsuba-Nakano-MD' //Github Oficial
-
-global.fb = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' //Facebook Del Propietario
 
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶 𝑹𝑷𝑮◞ • ⚔
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Lɪɴᴅᴀ Nᴏᴄʜᴇ 🌃'; break; case 1: hour = 'Lɪɴᴅᴀ Nᴏᴄʜᴇ 🌃'; break; case 2: hour = 'Lɪɴᴅᴀ Nᴏᴄʜᴇ 🌃'; break; case 3: hour = 'Lɪɴᴅᴀ Mᴀɴ̃ᴀɴᴀ 🌄'; break; case 4: hour = 'Lɪɴᴅᴀ Mᴀɴ̃ᴀɴᴀ 🌄'; break; case 5: hour = 'Lɪɴᴅᴀ Mᴀɴ̃ᴀɴᴀ 🌄'; break; case 6: hour = 'Lɪɴᴅᴀ Mᴀɴ̃ᴀɴᴀ 🌄'; break; case 7: hour = 'Lɪɴᴅᴀ Mᴀɴ̃ᴀɴᴀ 🌅'; break; case 8: hour = 'Lɪɴᴅᴀ Mᴀɴ̃ᴀɴᴀ 🌄'; break; case 9: hour = 'Lɪɴᴅᴀ Mᴀɴ̃ᴀɴᴀ 🌄'; break; case 10: hour = 'Lɪɴᴅᴏ Dɪᴀ 🌤'; break; case 11: hour = 'Lɪɴᴅᴏ Dɪᴀ 🌤'; break; case 12: hour = 'Lɪɴᴅᴏ Dɪᴀ 🌤'; break; case 13: hour = 'Lɪɴᴅᴏ Dɪᴀ 🌤'; break; case 14: hour = 'Lɪɴᴅᴀ Tᴀʀᴅᴇ 🌆'; break; case 15: hour = 'Lɪɴᴅᴀ Tᴀʀᴅᴇ 🌆'; break; case 16: hour = 'Lɪɴᴅᴀ Tᴀʀᴅᴇ 🌆'; break; case 17: hour = 'Lɪɴᴅᴀ Tᴀʀᴅᴇ 🌆'; break; case 18: hour = 'Lɪɴᴅᴀ Nᴏᴄʜᴇ 🌃'; break; case 19: hour = 'Lɪɴᴅᴀ Nᴏᴄʜᴇ 🌃'; break; case 20: hour = 'Lɪɴᴅᴀ Nᴏᴄʜᴇ 🌃'; break; case 21: hour = 'Lɪɴᴅᴀ Nᴏᴄʜᴇ 🌃'; break; case 22: hour = 'Lɪɴᴅᴀ Nᴏᴄʜᴇ 🌃'; break; case 23: hour = 'Lɪɴᴅᴀ Nᴏᴄʜᴇ 🌃'; break;}
