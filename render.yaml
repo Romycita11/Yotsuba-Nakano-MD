@@ -2,5 +2,5 @@ services:
   - type: web
     name: Maleebot
     env: docker
-    region:
+    region: Ecuador 
     plan: free
