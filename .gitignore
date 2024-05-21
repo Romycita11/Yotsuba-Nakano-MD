@@ -1,8 +1,8 @@
 #| Folders |#
 
-.github
+.malee
 node_modules
-SakuraBotSession
+MaleeBotSession
 tmp
 jadibts
 pluginpilot
